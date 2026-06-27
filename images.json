@@ -1,0 +1,92 @@
+{
+    "easy": [
+        {
+            "bgImageName": "KPOP_COLOR",
+            "bgImagePath": "https://raw.githubusercontent.com/alaasaber19912-rgb/kpopidolcoloringbook/refs/heads/main/kpop1.png"
+        },
+        {
+            "bgImageName": "KPOP_COLOR",
+            "bgImagePath": "https://raw.githubusercontent.com/alaasaber19912-rgb/kpopidolcoloringbook/refs/heads/main/kpop2.png"
+        },
+        {
+            "bgImageName": "KPOP_COLOR",
+            "bgImagePath": "https://raw.githubusercontent.com/alaasaber19912-rgb/kpopidolcoloringbook/refs/heads/main/kpop3.png"
+        },
+        {
+            "bgImageName": "KPOP_COLOR",
+            "bgImagePath": "https://raw.githubusercontent.com/alaasaber19912-rgb/kpopidolcoloringbook/refs/heads/main/kpop4.png"
+        },
+        {
+            "bgImageName": "KPOP_COLOR",
+            "bgImagePath": "https://raw.githubusercontent.com/alaasaber19912-rgb/kpopidolcoloringbook/refs/heads/main/kpop5.png"
+        },
+        {
+            "bgImageName": "KPOP_COLOR",
+            "bgImagePath": "https://raw.githubusercontent.com/alaasaber19912-rgb/kpopidolcoloringbook/refs/heads/main/kpop6.png"
+        }
+    ],
+    "hard": [
+        {
+            "bgImageName": "KPOP_COLOR",
+            "bgImagePath": "https://raw.githubusercontent.com/alaasaber19912-rgb/kpopidolcoloringbook/refs/heads/main/kpop1.png"
+        },
+        {
+            "bgImageName": "KPOP_COLOR",
+            "bgImagePath": "https://raw.githubusercontent.com/alaasaber19912-rgb/kpopidolcoloringbook/refs/heads/main/kpop2.png"
+        },
+        {
+            "bgImageName": "KPOP_COLOR",
+            "bgImagePath": "https://raw.githubusercontent.com/alaasaber19912-rgb/kpopidolcoloringbook/refs/heads/main/kpop3.png"
+        },
+        {
+            "bgImageName": "KPOP_COLOR",
+            "bgImagePath": "https://raw.githubusercontent.com/alaasaber19912-rgb/kpopidolcoloringbook/refs/heads/main/kpop4.png"
+        },
+        {
+            "bgImageName": "KPOP_COLOR",
+            "bgImagePath": "https://raw.githubusercontent.com/alaasaber19912-rgb/kpopidolcoloringbook/refs/heads/main/kpop5.png"
+        },
+        {
+            "bgImageName": "KPOP_COLOR",
+            "bgImagePath": "https://raw.githubusercontent.com/alaasaber19912-rgb/kpopidolcoloringbook/refs/heads/main/kpop6.png"
+        }
+    ],
+    "number": [
+        {
+            "bgImageName": "KPOP_COLOR",
+            "bgImagePath": "https://raw.githubusercontent.com/alaasaber19912-rgb/kpopidolcoloringbook/refs/heads/main/kpop1.jpeg"
+        },
+        {
+            "bgImageName": "KPOP_COLOR",
+            "bgImagePath": "https://raw.githubusercontent.com/alaasaber19912-rgb/kpopidolcoloringbook/refs/heads/main/kpop2.jpeg"
+        },
+        {
+            "bgImageName": "KPOP_COLOR",
+            "bgImagePath": "https://raw.githubusercontent.com/alaasaber19912-rgb/kpopidolcoloringbook/refs/heads/main/kpop3.jpeg"
+        },
+        {
+            "bgImageName": "KPOP_COLOR",
+            "bgImagePath": "https://raw.githubusercontent.com/alaasaber19912-rgb/kpopidolcoloringbook/refs/heads/main/kpop4.jpeg"
+        },
+        {
+            "bgImageName": "KPOP_COLOR",
+            "bgImagePath": "https://raw.githubusercontent.com/alaasaber19912-rgb/kpopidolcoloringbook/refs/heads/main/kpop5.jpeg"
+        },
+        {
+            "bgImageName": "KPOP_COLOR",
+            "bgImagePath": "https://raw.githubusercontent.com/alaasaber19912-rgb/kpopidolcoloringbook/refs/heads/main/kpop6.jpeg"
+        },
+        {
+            "bgImageName": "KPOP_COLOR",
+            "bgImagePath": "https://raw.githubusercontent.com/alaasaber19912-rgb/kpopidolcoloringbook/refs/heads/main/kpop7.jpeg"
+        }
+    ],
+    "ad_config": {
+        "ad_enabled": true,
+        "banner_id": "ca-app-pub-7674477089076248/7201832587",
+        "interstitial_id": "ca-app-pub-7674477089076248/8076352016",
+        "rewarded_id": "ca-app-pub-7674477089076248/4623770700",
+        "app_open_id": "ca-app-pub-7674477089076248/2666288830",
+        "native_id": "ca-app-pub-7674477089076248/3979370504"
+    }
+}
